@@ -1,0 +1,637 @@
+* {
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.img-responsiva {
+    height: auto;
+}
+
+header {
+    background-color: #333333;
+    height: 91px;
+    width: 100%;
+}
+
+header .menu {
+    display: none;
+}
+
+header p {
+    font-size: 10pt;
+    margin-top: 2px;
+}
+
+ul {
+    list-style: none;
+    margin-left: -48px;
+}
+
+header li {
+    display: inline;
+}
+
+a, i {
+    color: white;
+    cursor: pointer;
+}
+
+.link-bem-vindo {
+    margin-left: -12px;
+}
+
+.link-pedidos {
+    padding-left: 78px;
+}
+
+#topo2 {
+    margin-top: 14px;
+    position: absolute;
+}
+
+#topo2 li {
+    padding-left: 10px;
+}
+
+.fa-chevron-down {
+    font-size: 9px;
+    margin-left: 4px;
+}
+
+.logotipo {
+    margin-top: -6px;
+    width: 20%;
+}
+
+.form-search {
+    margin-top: 17px;
+    position: absolute;
+    right: 298px;
+    width: 15%;
+}
+
+.search {
+    background-color: #333333;
+    border: none;
+    border-bottom: solid 1px #999999;
+    width: 92%;
+}
+
+.fa-shopping-cart {
+    color: #f8595f;
+    font-size: 26px;
+    margin-top: 19px;
+    position: absolute;
+    right: 194px;
+}
+
+#item-carrinho {
+    font-size: 10pt;
+    margin-top: 16px;
+    position: absolute;
+    right: 114px;
+}
+
+#preco {
+    display: block;
+}
+
+
+.capa {
+    padding: 0;
+}
+
+#capa {
+    width: 100%;
+}
+
+
+.row1 .col-md-6 {
+    margin-top: 52px;
+    padding: 0;
+}
+
+.rodas-row1 {
+    padding-right: 8px;
+}
+
+.carro-row1 {
+    padding-left: 8px;
+}
+
+.row2 .col-md-4 {
+    margin-top: 24px;
+    padding: 0;
+    margin-bottom: 50px; 
+}
+
+.row1 img, .row2 img {
+    width: 100%;
+}
+
+.carro-vermelho-row2 {
+    
+    padding-right: 7px;
+}
+
+.carro-row2 {
+    padding: 0 7px;
+}
+
+.rodas-row2 {
+    padding-left: 7px;
+}
+
+hr {
+    margin: o auto;
+    width: 1140px;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+h2 {
+    color: black;
+    font-size: 37px;
+    font-weight:bold; 
+    text-align: center;
+}
+
+.btn-oferta {
+    background-color: #de006f;
+}
+
+.fa-truck {
+    transform: rotateY(180deg);
+}
+
+.fa-star, .fa-certificate {
+    color: white;
+}
+
+.fa-shopping-bag {
+    color: #68be68;
+}
+
+.row3 {
+    margin-top: 32px;
+}
+
+.row3 i {
+    margin-right: 5px;
+}
+
+.row3 p {
+    color: black;
+    font-size: 11pt;
+    font-weight: bold;
+    margin-top: 36px;
+    text-align: center;
+}
+
+.row3 img {
+    width: initial;
+}
+
+.row3 .vermelho {
+    color: #f8595f;
+    margin-top: 0;
+}
+
+.row3 .cinza {
+    color: #999;
+}
+
+.row3 .btn {
+    font-size: 8pt;
+}
+
+.row3 .block {
+    color: black;
+    display: block;
+}
+
+.row3 img {
+    margin-left: 25px;
+}
+
+.row3 .btn-info {
+    margin: 0 0 0 90px;
+    position: absolute;
+}
+
+.row3 .btn-oferta {
+    position: absolute;
+    margin: 26px 0 0 115px;
+}
+
+.btn-outline-success {
+    font-weight: bold;
+    margin-left: 60px;
+    width: 50%;
+
+}
+
+.novidades {
+    background-color: #e4e4e4;
+    height: 386px;
+    margin-top: 75px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+.novidades .col-md-6 {
+    margin-top: 46px;
+}
+
+#banner {
+    background-color: black;
+    height: 220px;
+    margin-left: 70px;
+    width: 392px;
+}
+
+#banner p {
+    color: white;
+}
+
+.row4 p {
+    font-size: 9pt;
+    color: black;
+}
+
+.row4 span {
+    color: black;
+    display: block;
+}
+
+.row4 input {
+    background-color: #e4e4e4;
+    border: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.row4 hr {
+    border: solid 1px black;
+    margin-left: 0;
+    margin-top: -5px;
+    width: 50%;
+}
+
+.row4 i {
+    color: black;
+}
+
+.row4 .btn {
+    width: 25%;
+    margin-left: 115px;
+}
+
+.row4 ul {
+    margin-top: 60px;
+}
+
+.row4 .fa-youtube, .row4 .fa-facebook-f, .row4 .fa-instagram {
+    border: solid 1px white;
+    border-radius: 25px;
+    background-color: white;
+    line-height: 50px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.row4 li {
+    display: inline;
+    font-size: 25pt;
+    margin-right: 10px;
+}
+
+#ajuda {
+    background-color: #333333;
+    height: 225px;
+    width: 100%;
+}
+
+.logotipo2 {
+    margin-top: 45px;
+    margin-left: 30px;
+    width: 60%;
+}
+
+.row5 li {
+    font-size: 9pt;
+    padding-left: 10px;
+}
+
+.row5 p {
+    font-size: 9pt;
+    line-height: 0;
+    text-align: right;
+}
+
+.atendimento, .ajuda {
+    margin-top: 32px;
+    font-size: 12pt;
+}
+
+.ajuda {
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+.atendimento {
+    text-align: right;
+    margin-bottom: 25px;
+}
+
+.telefone span {
+    font-size: 15pt;
+}
+
+.lista-quem-somos {
+    margin-top: 55px;
+}
+
+.lista-quem-somos li {
+    display: inline;
+}
+
+#pagamentos {
+    background-color: #e4e4e4;
+    height: 110px;
+    width: 100%;
+}
+
+#pagamentos h6 {
+    color: black;
+    font-weight: bold;
+    margin-top: 28px;
+    margin-left: -50px;
+}
+
+.cartoes1 {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: -20px;
+}
+
+.cartoes2 {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+
+.ebit {
+    position: absolute;
+    margin-left: 140px;
+    margin-top: -28px;
+}
+
+.certisign {
+    position: absolute;
+    margin-left: 215px;
+    margin-top: -26px;
+}
+
+.clearsale {
+    position: absolute;
+    margin-left: 215px;
+    margin-top: 10px;
+}
+
+.pci {
+    position: absolute;
+    margin-left: 340px;
+    margin-top: -30px;
+}
+
+footer {
+    height: 50px;
+    width: 100%;
+}
+
+footer p {
+    color: #c2c2c2;
+    font-size: 9pt;
+    margin-left: 92px;
+    margin-top: 8px;
+}
+
+footer span {
+    color: #c2c2c2;
+    display: block;
+    font-size: 9pt;
+}
+
+footer img {
+    width: initial;
+}
+
+.vtex {
+    position: absolute;
+    right: 192px;
+    margin-top: -55px;
+}
+
+.desing4 {
+    position: absolute;
+    right: 92px;
+    margin-top: -55px;
+}
+
+@media only screen and (max-width: 600px) {
+    * {
+      padding: 0;
+      margin: 0;
+    }
+    header p, header ul, header input{
+        display: none;
+    }
+    header .menu {
+        display: initial;
+        margin: 10px;
+    }
+    header .logotipo {
+        width: 50%;
+    }
+    header .fa-search {
+        margin-top: 0px;
+        right: -286px;
+        position: absolute;
+    } 
+    header .fa-shopping-cart {
+        margin-top: -32px;
+        right: 10px;
+    }
+
+    .row1 img, .row2 img {
+        padding-left: 0;
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .row3 .btn-info {
+        margin: -25px 0 0 165px;
+        position: absolute;
+    }
+
+    .row3 .btn-oferta {
+        position: absolute;
+        margin: 2px 0 0 190px;
+    }
+
+    .row3 .btn-novo {
+        margin-top: -210px;
+    }
+
+    .btn-outline-success {
+        font-weight: bold;
+        margin-left: 85px;
+        margin-bottom: 50px;
+        width: 50%;
+    }
+
+    .novidades {
+        margin-top: 0;
+    }
+
+    hr {
+        width: 100%;
+    } 
+    #banner {
+        background-color: black;
+        height: 150px;
+        margin-left: 0;
+        margin-top: -40px;
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 16pt;
+    }
+
+    .row4 p, .row4 input {
+        font-size: 7pt;
+        margin-top: -30px; 
+    }
+
+    ul {
+        margin: 0px;
+    }
+
+    .row4 ul {
+        margin-top: 0;
+    }
+
+    .row4 .fa-youtube, .row4 .fa-facebook-f, .row4 .fa-instagram {
+        border: solid 1px white;
+        border-radius: 25px;
+        background-color: white;
+        line-height: 50px;
+        height: 50px;
+        width: 50px;
+        text-align: center;
+    }
+
+    #logo-footer {
+        display: none;
+    }
+
+    .atendimento {
+        margin-top: -84px;
+        font-size: 10pt;
+    }
+    
+    .ajuda {
+        margin-top: 60px;
+        font-size: 10pt;
+        text-align: left;
+        margin-bottom: 0;
+    }
+    
+    .atendimento {
+        text-align: right;
+        margin-bottom: 15px;
+    }
+    
+    .telefone span {
+        font-size: 12pt;
+    }
+
+    #pagamentos h6 {
+        color: black;
+        font-weight: bold;
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .cartoes1 {
+        position: absolute;
+        margin-left: 105px;
+        margin-top: -25px;
+        width: 45%;
+    }
+
+    .cartoes2 {
+        position: absolute;
+        margin-left: 270px;
+        margin-top: -25px;
+        width: 18%;
+    }
+
+    .ebit {
+        position: absolute;
+        margin-left: 185px;
+        margin-top: -35px;
+        width: 10%
+    }
+
+    .certisign {
+        position: absolute;
+        margin-left: 225px;
+        margin-top: -35px;
+        width: 15%;
+    }
+
+    .clearsale {
+        position: absolute;
+        margin-left: 225px;
+        margin-top: -5px;
+        width: 20%;
+    }
+
+    .pci {
+        position: absolute;
+        margin-left: 287px;
+        margin-top: -38px;
+        width: 13%;
+    }
+
+    footer p {
+        color: #c2c2c2;
+        font-size: 9pt;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    footer span {
+        display: initial;
+    }
+    footer img {
+        width: 18%;
+    }
+
+    .vtex {
+        position: absolute;
+        right: 94px;
+        margin-top: -33px;
+    }
+
+    .desing4 {
+        position: absolute;
+        right: 20px;
+        margin-top: -30px;
+    }
+  }
